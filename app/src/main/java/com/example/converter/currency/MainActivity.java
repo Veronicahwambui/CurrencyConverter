@@ -9,9 +9,11 @@ import android.widget.ArrayAdapter;
 import android.widget.Toast;
 
 
+import com.example.converter.currency.databinding.ActivityMainBinding;
 import com.example.converter.currency.network.APIInterface;
 import com.example.converter.currency.network.ApiBuilder;
-import com.firedart.kamau_mbugua_softwares.currency.databinding.ActivityMainBinding;
+
+
 import com.google.gson.JsonObject;
 
 import retrofit2.Call;

@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.firedart.kamau_mbugua_softwares.currency"
+        applicationId "com.example.converter.currency"
         minSdk 21
         targetSdk 32
         versionCode 1
