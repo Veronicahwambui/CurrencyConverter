@@ -1,4 +1,4 @@
-package com.firedart.kamau_mbugua_softwares.currency.network;
+package com.example.converter.currency.network;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

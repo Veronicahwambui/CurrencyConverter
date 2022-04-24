@@ -1,6 +1,5 @@
-package com.firedart.kamau_mbugua_softwares.currency;
+package com.example.converter.currency;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -9,9 +8,10 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Toast;
 
+
+import com.example.converter.currency.network.APIInterface;
+import com.example.converter.currency.network.ApiBuilder;
 import com.firedart.kamau_mbugua_softwares.currency.databinding.ActivityMainBinding;
-import com.firedart.kamau_mbugua_softwares.currency.network.APIInterface;
-import com.firedart.kamau_mbugua_softwares.currency.network.ApiBuilder;
 import com.google.gson.JsonObject;
 
 import retrofit2.Call;

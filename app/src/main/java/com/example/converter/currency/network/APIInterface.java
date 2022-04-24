@@ -1,4 +1,4 @@
-package com.firedart.kamau_mbugua_softwares.currency.network;
+package com.example.converter.currency.network;
 
 import com.google.gson.JsonObject;
 

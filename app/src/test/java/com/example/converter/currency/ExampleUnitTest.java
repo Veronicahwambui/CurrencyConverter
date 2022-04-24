@@ -1,4 +1,4 @@
-package com.firedart.kamau_mbugua_softwares.currency;
+package com.example.converter.currency;
 
 import org.junit.Test;
 
